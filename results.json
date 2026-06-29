@@ -1,0 +1,179 @@
+{
+  "service_level": 0.95,
+  "baseline_total_cost": 5724.437388495047,
+  "meio_total_cost": 3250.0803850280754,
+  "reduction_pct": 0.432244574539312,
+  "baseline": {
+    "DC": {
+      "service_out": 0,
+      "tau": 0.0,
+      "safety_stock": 0.0,
+      "cost": 0.0
+    },
+    "RDC_A": {
+      "service_out": 0,
+      "tau": 0.0,
+      "safety_stock": 0.0,
+      "cost": 0.0
+    },
+    "RDC_B": {
+      "service_out": 0,
+      "tau": 0.0,
+      "safety_stock": 0.0,
+      "cost": 0.0
+    },
+    "RDC_C": {
+      "service_out": 0,
+      "tau": 0.0,
+      "safety_stock": 0.0,
+      "cost": 0.0
+    },
+    "S_A1": {
+      "service_out": 0,
+      "tau": 17,
+      "safety_stock": 135.65017508282102,
+      "cost": 542.6007003312841
+    },
+    "S_A2": {
+      "service_out": 0,
+      "tau": 17,
+      "safety_stock": 189.91024511594946,
+      "cost": 759.6409804637979
+    },
+    "S_A3": {
+      "service_out": 0,
+      "tau": 17,
+      "safety_stock": 122.08515757453893,
+      "cost": 488.3406302981557
+    },
+    "S_B1": {
+      "service_out": 0,
+      "tau": 17,
+      "safety_stock": 237.38780639493683,
+      "cost": 949.5512255797473
+    },
+    "S_B2": {
+      "service_out": 0,
+      "tau": 17,
+      "safety_stock": 162.78021009938524,
+      "cost": 651.120840397541
+    },
+    "S_B3": {
+      "service_out": 0,
+      "tau": 17,
+      "safety_stock": 203.47526262423156,
+      "cost": 813.9010504969262
+    },
+    "S_C1": {
+      "service_out": 0,
+      "tau": 17,
+      "safety_stock": 101.73763131211578,
+      "cost": 406.9505252484631
+    },
+    "S_C2": {
+      "service_out": 0,
+      "tau": 17,
+      "safety_stock": 128.86766632867997,
+      "cost": 515.4706653147199
+    },
+    "S_C3": {
+      "service_out": 0,
+      "tau": 17,
+      "safety_stock": 149.21519259110312,
+      "cost": 596.8607703644125
+    }
+  },
+  "optimized": {
+    "DC": {
+      "service_in": 0,
+      "service_out": 0,
+      "tau": 10,
+      "safety_stock": 377.9564257292102,
+      "cost": 377.9564257292102
+    },
+    "RDC_A": {
+      "service_in": 0,
+      "service_out": 0,
+      "tau": 5,
+      "safety_stock": 142.84057021728808,
+      "cost": 285.68114043457615
+    },
+    "S_A1": {
+      "service_in": 0,
+      "service_out": 0,
+      "tau": 2,
+      "safety_stock": 46.52762620207483,
+      "cost": 186.1105048082993
+    },
+    "S_A2": {
+      "service_in": 0,
+      "service_out": 0,
+      "tau": 2,
+      "safety_stock": 65.13867668290476,
+      "cost": 260.55470673161904
+    },
+    "S_A3": {
+      "service_in": 0,
+      "service_out": 0,
+      "tau": 2,
+      "safety_stock": 41.874863581867345,
+      "cost": 167.49945432746938
+    },
+    "RDC_B": {
+      "service_in": 0,
+      "service_out": 0,
+      "tau": 5,
+      "safety_stock": 191.1671196231193,
+      "cost": 382.3342392462386
+    },
+    "S_B1": {
+      "service_in": 0,
+      "service_out": 0,
+      "tau": 2,
+      "safety_stock": 81.42334585363096,
+      "cost": 325.69338341452385
+    },
+    "S_B2": {
+      "service_in": 0,
+      "service_out": 0,
+      "tau": 2,
+      "safety_stock": 55.8331514424898,
+      "cost": 223.3326057699592
+    },
+    "S_B3": {
+      "service_in": 0,
+      "service_out": 0,
+      "tau": 2,
+      "safety_stock": 69.79143930311224,
+      "cost": 279.16575721244897
+    },
+    "RDC_C": {
+      "service_in": 0,
+      "service_out": 0,
+      "tau": 5,
+      "safety_stock": 120.3213769452461,
+      "cost": 240.6427538904922
+    },
+    "S_C1": {
+      "service_in": 0,
+      "service_out": 0,
+      "tau": 2,
+      "safety_stock": 34.89571965155612,
+      "cost": 139.58287860622448
+    },
+    "S_C2": {
+      "service_in": 0,
+      "service_out": 0,
+      "tau": 2,
+      "safety_stock": 44.201244891971086,
+      "cost": 176.80497956788435
+    },
+    "S_C3": {
+      "service_in": 0,
+      "service_out": 0,
+      "tau": 2,
+      "safety_stock": 51.18038882228231,
+      "cost": 204.72155528912924
+    }
+  }
+}
